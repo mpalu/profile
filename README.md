@@ -6,7 +6,7 @@
  
 Working as DevOps Engineer @ [Trimble Transportation](https://www.trimble.com/Industries/Transportation/index.aspx)
 
-Find me at [LinkedIn](https://br.linkedin.com/in/matheuspalu)
+Find me @ [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 
 <h3>Stack 💻</h3>
 
