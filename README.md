@@ -10,13 +10,7 @@ Find me at [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 
 <h3>Stack 💻</h3>
 
-- Linux
-- Kubernetes
-- AWS
-- GCP
-- Terraform
-- Buildkite
-- RabbitMQ
+Linux - Kubernetes - AWS - GCP - Terraform - Buildkite - RabbitMQ - Microservices
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpalu&show_icons=true)](https://github.com/mpalu)
 </div>
