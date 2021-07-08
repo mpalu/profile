@@ -3,7 +3,7 @@
 
 <h3>About Me 💼</h3>
  
-Working as DevOps Engineer @ [Trimble Transportation](https://www.trimble.com/Industries/Transportation/index.aspx)
+Working as SRE / DevOps Engineer @ [Trimble Transportation](https://www.trimble.com/Industries/Transportation/index.aspx)
 
 Find me @ [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 
