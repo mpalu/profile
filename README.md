@@ -2,7 +2,7 @@
 
 <h3>About Me 💼</h3>
 
-I'm Matheus Palu, working as SRE / DevOps Engineer @ [Trimble](https://www.trimble.com)
+I'm Matheus Palu, working as a SRE / DevOps Engineer @ [Trimble](https://www.trimble.com)
 
 Connect with me @ [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 
