@@ -1,4 +1,3 @@
-<!--<div align="center">-->
 <h2>Hello fellow 👋</h2>
 
 <h3>About Me 💼</h3>
@@ -12,4 +11,3 @@ Connect with me @ [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 Linux - Kubernetes - AWS - GCP - Terraform - Scripting </br> Buildkite - GitOps - Microservices - Message Broker
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpalu&layout=compact)](https://github.com/mpalu/github-readme-stats)
-</div>
