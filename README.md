@@ -2,7 +2,7 @@
 
 <h3>About Me 💼</h3>
 
-I'm Matheus Palu, working as a SRE / DevOps Engineer @ [Brasil Paralelo](https://www.brasilparalelo.com.br/)
+I'm Matheus Palu, working as a SRE / DevOps Engineer @ [Volvo Cars](https://www.volvocars.com/)
 
 Connect with me @ [LinkedIn](https://br.linkedin.com/in/matheuspalu)
 
